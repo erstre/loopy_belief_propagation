@@ -14,7 +14,7 @@ The algorithm continues until the belief values converge or the maximum number o
 
 ### Prerequisites
 
-The following software need to be installed.
+The following software needs to be installed.
 
 - MATLAB
 
