@@ -1,8 +1,6 @@
 # Loopy Belief Propagation algorithm in MATLAB
 Matlab implementation of [Loopy Belief Propagation](https://en.wikipedia.org/wiki/Belief_propagation) algorithm for image recognition.
 
-![Settings Window](https://github.com/erstre/loopy_belief_propagation/issues/1#issue-1628984651)
-
 ## Description
 Loopy Belief Propagation (LBP) is a message passing algorithm used for probabilistic graphical models, which allows to perform approximate inference on factor graphs with loops. This algorithm is widely used in the field of artificial intelligence, machine learning, and computer vision.
 
