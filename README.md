@@ -18,7 +18,7 @@ The algorithm continues until the belief values converge or the maximum number o
 
 The following software needs to be installed.
 
-- MATLAB
+- ```MATLAB```
 
 ## Authors
 
